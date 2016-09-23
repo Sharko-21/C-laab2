@@ -1,0 +1,8 @@
+c:\users\yarl9\onedrive\документы\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\bin\Debug\Nerwork.Library.dll
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\bin\Debug\Nerwork.Library.pdb
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+C:\Users\Yarl9\OneDrive\Документы\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
